@@ -2,7 +2,7 @@
 
 > An ML-powered web app that helps Pakistani kiryana store owners predict weekly product demand — so they never over-order or run out of stock again.
 
-[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dukaan-demand-forecast-3erzquza2xewjane7xfqvx.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn&logoColor=white)
